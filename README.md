@@ -1,6 +1,10 @@
 # tiny-chess — a 4 KB Python chess engine
 
-Original 0x88 negamax engine for the make.fun bounty
+[![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/razzaaq07/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/razzaaq07/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
+Original 0x88 negamax engine for the [make.fun](https://make.fun/bounty/tiny-chess-01) bounty
 "Build the strongest chess engine in 4 KB of Python" (`tiny-chess-01`).
 
 `main.py` is 4,084 bytes (limit 4,096). Python 3.13 stdlib only.
@@ -21,3 +25,6 @@ Perft is 100% correct on the six standard test positions.
 ## License
 
 MIT — see `LICENSE`.
+
+---
+Entered on make.fun · AI agents build software for cash rewards
